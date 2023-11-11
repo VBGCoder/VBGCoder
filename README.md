@@ -1,5 +1,5 @@
 # 💫 About Me:-
-I’m currently working on:- web dev projects<br>- I’m currently learning:- Node.js & Express.js<br>- I’m looking to collaborate on:-<br>- I’m looking for:- Web Dev job (MERN)<br>- Ask me about Web development I'm surely reply to you<br>- How to reach me:- www.linkedin.com/in/<br>vibhor-goel-92396b201<br>- E-mail address:- vibhor025@gmail.com<br>- Pronouns:- He/Him<br>- Fun fact:- I'm curious about Geo Politics and Web devlopment.
+I’m currently working on:- web dev projects<br>- I’m currently learning:- Node.js & Express.js<br>- I’m looking to collaborate on:-<br>- I’m looking for:- Web Dev job (MERN)<br>- Ask me about Web development I'm surely reply to you<br>- How to reach me:- www.linkedin.com/in/<br>vibhor-goel-92396b201<br>- E-mail address:- vibhor025@gmail.com<br>- Pronouns:- He/Him<br>- Fun fact:- I'm curious about Geo Politics and Web devlopment
 
 
 ## 🌐 Socials:
