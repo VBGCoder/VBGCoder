@@ -7,16 +7,11 @@
 <h1 align="center">hey there I'm Vibhor Goel</h1>
 
 ###
-
 <br clear="both">
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=VBGCoder.VBGCoder&"  />
-</div>
 
-###
 
 <br clear="both">
 
@@ -86,6 +81,11 @@
 
 <div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"  />
+</div>
+
+###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VBGCoder.VBGCoder&"  />
 </div>
 
 ###
