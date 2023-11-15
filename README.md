@@ -1,29 +1,30 @@
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif"  />
+  <img height="300", width="500" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif"  />
 </div>
 
 ###
 
-<h1 align="center">hey there I'm Vibhor Goel</h1>
-
-###
-<br clear="both">
+<h1 align="center">Hey there, I'm Vibhor Goel</h1>
 
 ###
 
-
-
-<br clear="both">
-
-<h3 align="center">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+  <li>I’m Currently as a CSE Student in UPES <br>
+  <li> I'm currently learning MERN Stack <br>
+  <li>  I’m interested in Web development and Cloud Computing <br>
+  <li> Linkedin Profile:- www.linkedin.com/in/vibhor-goel-92396b201<br>
+  <li> E-mail:- vibhor025@gmail.com <br>
+  <li> Resume- https://drive.google.com/file/d/16TVbQ_wq8vydOebbkuFRM3vsgflcMiMK/view?usp=sharing
+
+</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -67,7 +68,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
