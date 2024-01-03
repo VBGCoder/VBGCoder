@@ -14,7 +14,7 @@
 
 <p align="left">
   <li>I’m Currently as a CSE Student in UPES <br>
-  <li> I'm currently learning MERN Stack <br>
+  <li> I'm currently learning TypeScript <br>
   <li>  I’m interested in Web development and Cloud Computing <br>
   <li> Linkedin Profile:- www.linkedin.com/in/vibhor-goel-92396b201<br>
   <li> E-mail:- vibhor025@gmail.com <br>
