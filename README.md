@@ -21,6 +21,7 @@
   <li> E-mail:- vibhor025@gmail.com <br>
   <li> Resume:- https://drive.google.com/file/d/1WFLg-3KFM8jMxCaBN5ebz14s_SYOPrUc/view <br>
   <li> E-Portfolio:- https://vibhor-goel.vercel.app
+  <li> B.Tech CSE CGPA-8.12
 
 </p>
 
