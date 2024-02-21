@@ -19,9 +19,11 @@
   <li>  I’m interested in Web development and Cloud Computing <br>
   <li> Linkedin Profile:- www.linkedin.com/in/vibhor-goel-92396b201<br>
   <li> E-mail:- vibhor025@gmail.com <br>
-  <li> Resume:- https://drive.google.com/file/d/1FZBQ6X44C18FWzVQeQJhJ-hFylypyezO/view?usp=sharing <br>
+  <li> X:- https://twitter.com/VibhorGoel88290 <br>
   <li> E-Portfolio:- https://vibhor-goel.vercel.app <br>
-  <li> B.Tech CSE CGPA-8.12
+  <li> Resume:- https://drive.google.com/file/d/1FZBQ6X44C18FWzVQeQJhJ-hFylypyezO/view?usp=sharing <br>
+  <li> B.Tech CSE CGPA-8.12 <br>
+  
 
 </p>
 
