@@ -14,15 +14,15 @@
 ###
 
 <p align="left">
-  <li>I’m Currently as a CSE Student in UPES <br>
-  <li> I'm currently learning TypeScript <br>
-  <li>  I’m interested in Web development and Cloud Computing <br>
+  <li>I’m Currently as a Data Analyst <br>
+  <li> I'm currently learning Microsoft Power BI <br>
+  <li>  I’m interested in Data Preparation and Data Visualization <br>
   <li> Linkedin Profile: https://www.linkedin.com/in/vibhor-goel03092002/<br>
   <li> E-mail: vibhor025@gmail.com <br>
   <li> X: https://twitter.com/VibhorGoel88290 <br>
   <li> E-Portfolio: https://vibhor-goel.vercel.app <br>
-  <li> Resume: https://drive.google.com/file/d/1AsN0P4Vr8xSZM5QlWYZpYl5ZXkyI3M4V/view?usp=sharing <br>
-  <li> B.Tech CSE CGPA-8.12 <br>
+  <li> Resume: **Coming SOON** <br>
+  <li> B.Tech CSE Specialization- AI/ML with a CGPA of 8.15 <br>
   
 
 </p>
