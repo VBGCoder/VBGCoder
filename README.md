@@ -15,6 +15,7 @@
 
 <p align="left">
   <li>I’m Currently as a Data Analyst <br>
+  <li>I’m Certified as a Tableau Desktop specialist, ALteryx Core Designer <br>
   <li> I'm currently learning Microsoft Power BI <br>
   <li>  I’m interested in Data Preparation and Data Visualization <br>
   <li> Linkedin Profile: https://www.linkedin.com/in/vibhor-goel03092002/<br>
